@@ -1,0 +1,37 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+nav {
+  background-color: aliceblue;
+  padding: 16px 0px;
+}
+
+/* nav * {
+  padding: 0px 0px;
+} */
+
+nav a {
+  margin-right: 16px;
+}
+
+/* nav a.active {
+  text-decoration: none;
+  font-weight: bold;
+} */
+
+.activeLink {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.active_link {
+  background-color: #224461;
+  color: white;
+}
+
+.selected {
+  background-color: #224461;
+  color: white;
+}
